@@ -1,1 +1,1 @@
-hi this is ecommerce site named shopee
+Shopee is a leading e-commerce platform connecting buyers and sellers in a seamless online shopping experience.Shopee provides a wide range of products, from electronics and fashion to household goods, with features such as secure payment methods, integrated logistics, and interactive shopping experiences.
